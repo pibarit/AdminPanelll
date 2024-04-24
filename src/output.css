@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+}
+
+.sidebar {
+  width: 15%;
+  background-color: rgb(8, 3, 80);
+  position: fixed;
+  height: 100%;
+}
+
+.header {
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+}
